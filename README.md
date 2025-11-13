@@ -61,13 +61,12 @@ Students can easily view **upcoming events**, **past events**, **current circula
 - Firebase  
   - Firestore (Events & Circulars storage)
 
----
 
 ---
 
 | Home                                                                                 | Events                                                                               | Circulars                                                                            | Modal                                                                                |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| ![](https://github.com/user-attachments/assets/37b0f503-1cdc-4101-9e05-642b45289291) | ![](https://github.com/user-attachments/assets/c38e7806-e386-4d60-9346-9682ddcbcf68) | ![](https://github.com/user-attachments/assets/2bc3b6b0-b53f-458e-883f-339decaedef1)) |  ![](https://github.com/user-attachments/assets/1f40ecae-46fd-4c7a-9bd3-4951ba77327f) |
+| ![](https://github.com/user-attachments/assets/37b0f503-1cdc-4101-9e05-642b45289291) | ![](https://github.com/user-attachments/assets/c38e7806-e386-4d60-9346-9682ddcbcf68) | ![](https://github.com/user-attachments/assets/2bc3b6b0-b53f-458e-883f-339decaedef1) |  ![](https://github.com/user-attachments/assets/1f40ecae-46fd-4c7a-9bd3-4951ba77327f) |
 
 
 
